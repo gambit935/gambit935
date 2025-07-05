@@ -1,5 +1,5 @@
 # About Me:
-I'm pretty good at half-assing mods and googling errors.<br>Monster girls are hot and cute n stuff.<br>I've done something in C++ before and edited a file in Typescript once.
+I'm pretty good at half-assing Arma 3 & EFT mods and googling errors.<br>Monster girls are hot and cute n stuff.<br>I've done something in C++ before and edited a file in Typescript once.
 
 
 # Languages i've diddled:
@@ -8,8 +8,6 @@ I'm pretty good at half-assing mods and googling errors.<br>Monster girls are ho
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gambit935&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=gambit935&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!---
 gambit935/gambit935 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
